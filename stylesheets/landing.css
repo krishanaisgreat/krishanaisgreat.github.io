@@ -41,7 +41,7 @@ MAIN CONTENT
 }
 
 .thumbnail_image{
-  max-height:200px;
+  max-height:300px;
   max-width:242px;
 }
 
@@ -93,10 +93,15 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK8910.jpg?q=40&w=1650&sharp=30') no-repeat center;
+  background: url('http://i1379.photobucket.com/albums/ah142/Krishana246/unnamed_zpsox2rb8k4.jpg') no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+    color:purple;
 }
+body{
+background:#2EFFA1;
+}
+

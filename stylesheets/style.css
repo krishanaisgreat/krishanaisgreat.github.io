@@ -50,3 +50,23 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+
+article{
+    background:#FF5970;
+}
+
+footer{
+    background:#FF5970;
+}
+
+.jumbotron{
+  background: url('http://i1379.photobucket.com/albums/ah142/Krishana246/unnamed_zpsox2rb8k4.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.portrait_name{
+    background: rgba(230, 230, 230, 0.7);
+}
+body{
+background:#2EFFA1;
+}
